@@ -1,0 +1,19 @@
+
+> spa-salon-management@0.1.0 dev
+> next dev
+
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:3000
+
+ ✓ Starting...
+ ✓ Ready in 3.1s
+ ○ Compiling / ...
+ ✓ Compiled / in 7.4s (694 modules)
+ ✓ Compiled in 737ms (332 modules)
+ GET / 200 in 8196ms
+ GET / 200 in 49ms
+ ○ Compiling /pos ...
+ ✓ Compiled /pos in 618ms (674 modules)
+ GET /pos 200 in 777ms
+ ✓ Compiled in 570ms (674 modules)
+ ✓ Compiled in 219ms (674 modules)
